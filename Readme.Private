@@ -1,0 +1,8 @@
+Start on client
+--------
+/usr/local/bin/sshuttle --dns -r  root@xxx.xxx.xxx.xxx 0.0.0.0/0
+
+
+Start on server
+--------
+apt-get install sshuttle
